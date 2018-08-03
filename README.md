@@ -6,10 +6,10 @@ java小项目，一个仿飞机大战游戏
 
 ![image](https://github.com/suyeq/java-fly-fight/blob/master/1.png)
 
-![image](https://github.com/suyeq/java-fly-fight/blob/master/２.png)
+![image](https://github.com/suyeq/java-fly-fight/blob/master/2.png)
 
-![image](https://github.com/suyeq/java-fly-fight/blob/master/３.png)
+![image](https://github.com/suyeq/java-fly-fight/blob/master/3.png)
 
-![image](https://github.com/suyeq/java-fly-fight/blob/master/４.png)
+![image](https://github.com/suyeq/java-fly-fight/blob/master/4.png)
 
 
